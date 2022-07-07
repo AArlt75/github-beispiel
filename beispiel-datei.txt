@@ -1,1 +1,2 @@
 Diese Datei dient lediglich als Beispiel.
+Sie kann auch offline bearbeitet werden.
